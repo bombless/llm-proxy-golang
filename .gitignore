@@ -1,0 +1,9 @@
+/config.json
+/llm-usage.json
+/llm-metrics.json
+/llm-metrics-counts.json
+/responses-state.json
+/responses-sessions.json
+/dist/
+/llm-proxy
+*.log
